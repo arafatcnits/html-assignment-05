@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-logo{
+    width: 33.33%;
+}
+.nav-logo img {
+    width: 150px;
+    margin-left: 50px;   
+}
+.nav-section {   
+    display: flex;
+    background:rgb(207, 135, 135);
+}
+.nav-itam{
+    width: 33.33%;
+}
+.nav-itam ul {
+    list-style-type:none ;
+   display: flex;   
+}
+.nav-itam ul  li{
+    margin: 20px;
+}
+.nav-itam ul li a {
+    text-decoration: none; 
+    color: white; 
+}
+.nav-btn{
+    width: 33.33%;
+    text-align: center;
+    padding-top: 10px;   
+}
+h1{
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin-top: 30px;
+}
+.hero-img{
+    display: flex ; 
+    
+}
+.Unorder-list {
+    
+    width: 50%;
+    margin-left: 120px;
+
+    margin-top: 50px;
+   
+    padding: 10px;
+}
+.Unorder-list {
+    padding-bottom: 5px;
+}
+.Unorder-list ul li a {
+    padding: 10px;
+    text-decoration: none;  
+}
+.Unorder-list li {
+    padding-bottom: 5px;
+}
+
+
+.Order-list{
+    width: 50%;
+    margin-left: 120px;
+
+    margin-top: 50px;
+   
+   
+}
+.Order-list h3 {
+    padding-bottom: 5px;
+    color:rgb(10, 7, 7) ;
+}
+.Order-list ol a {
+    text-decoration: none;
+    padding: 10px;     
+}
+.Order-list li {
+    padding-bottom: 5px;
+}
+ 
+.Heading h4  {
+    text-align: center;
+    padding-top: 10px;
+   
+}
+.Heading p {
+    text-align: center;
+    padding: 10px;
+   
+}
+.Iframe {
+    width: 50%;
+}
+.Iframe {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.img-siction {
+    width: 50%;
+}
+.img {
+    margin-top: 50px;
+}
+
+
